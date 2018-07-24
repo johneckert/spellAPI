@@ -7,7 +7,7 @@
 
 Rails.application.config.middleware.insert_before 0, Rack::Cors do
   allow do
-    origins ['https://johneckert.github.io/DnD5eSpellList/', 'http://localhost:3001']
+    origins ['https://johneckert.github.io']
 
     resource '*',
       headers: :any,
