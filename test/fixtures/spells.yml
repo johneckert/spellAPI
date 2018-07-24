@@ -1,0 +1,33 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name=text: MyString
+  desc=text: MyString
+  higher=text: MyString
+  page=text: MyString
+  range=text: MyString
+  components=text: MyString
+  material=text: MyString
+  ritual=boolean: MyString
+  duration=text: MyString
+  concentration=boolean: MyString
+  casting_time=text: MyString
+  level=text: MyString
+  school=text: MyString
+  classes=text: MyString
+
+two:
+  name=text: MyString
+  desc=text: MyString
+  higher=text: MyString
+  page=text: MyString
+  range=text: MyString
+  components=text: MyString
+  material=text: MyString
+  ritual=boolean: MyString
+  duration=text: MyString
+  concentration=boolean: MyString
+  casting_time=text: MyString
+  level=text: MyString
+  school=text: MyString
+  classes=text: MyString
